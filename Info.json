@@ -1,0 +1,6 @@
+{
+  "help": "For complete paramters you can use see https://dev.socrata.com/foundry/data.sfgov.org/jjew-r69b\nIf no 'dayorder' or 'dayofweekstr' supplied, by default your local machine day will be used\nExample:\nnode food --dayorder=1 --starttime=6AM",
+  "no_file": "Please make sure API_URL is set in .env file.",
+  "next": "Press enter to load next 10 results or any key + enter to exit\n",
+  "nope": "There is no data to display."
+}
